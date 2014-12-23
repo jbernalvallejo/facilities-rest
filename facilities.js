@@ -2,7 +2,7 @@
     client: null,
     options: {},
     defaultOptions: {
-        serviceBaseUrl: "http://dev-internal.abcam.com/",
+        serviceBaseUrl: "http://www.somewhere.com/",
         ajaxOptions: {
             ajax: {
                 dataType: "json",
