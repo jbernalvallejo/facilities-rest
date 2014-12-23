@@ -1,0 +1,18 @@
+{
+  "name": "facilities-rest",
+  "version": "0.0.1",
+  "main": "facilities.js",
+  "license": "MIT",  
+  "dependencies": {
+	"jquery": ">= 1.9.1",
+	"jpillora/jquery.rest": "*"
+  },
+  "ignore": [
+    "README.md"
+  ],
+  "keywords": [    
+    "javascript",
+    "library",
+    "rest"
+  ]
+}
