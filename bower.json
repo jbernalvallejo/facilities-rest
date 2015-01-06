@@ -1,6 +1,6 @@
 {
   "name": "facilities-rest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "facilities.js",
   "license": "MIT",  
   "dependencies": {
