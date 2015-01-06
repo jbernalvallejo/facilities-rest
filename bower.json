@@ -1,16 +1,16 @@
 {
   "name": "facilities-rest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "facilities.js",
-  "license": "MIT",  
+  "license": "MIT",
   "dependencies": {
-	"jquery": ">= 1.9.1",
-	"jquery.rest": "*"
+    "jquery": ">= 1.9.1",
+    "jquery.rest": "*"
   },
   "ignore": [
     "README.md"
   ],
-  "keywords": [    
+  "keywords": [
     "javascript",
     "library",
     "rest"
