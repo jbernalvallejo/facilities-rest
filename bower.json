@@ -1,5 +1,6 @@
 {
   "name": "facilities-rest",
+  "description": "Some description about our new dependency",
   "version": "0.0.4",
   "main": "facilities.js",
   "license": "MIT",
